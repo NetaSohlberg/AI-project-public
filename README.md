@@ -5,4 +5,5 @@ The signs of distress that the system detects are:
 2. Cover face for more than half a minute
 3. Significant change in face color for one minute
 In order to run the program you have to run the file 'live'.
+
 Yeynit, Shira and Neta
