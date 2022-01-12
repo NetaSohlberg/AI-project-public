@@ -1,7 +1,7 @@
 '''
 Yeynit Asraf
 Shira Shwartz
-
+Neta Sohlberg
 '''
 
 import cv2
